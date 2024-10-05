@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.teixeira.contador_de_pessoas_2024_2"
+    namespace = "br.br.com.teixeira.contador_de_pessoas_2024_2"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
